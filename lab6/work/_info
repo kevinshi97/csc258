@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kevin/Desktop/CourseWork/csc258/lab6
+vcontrol
+Z1 !s110 1489012407
+!i10b 1
+!s100 ]1ClXNQ]mBlUFCB55n0o`3
+IJCHKalXnV@0=PD`e@7T[61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1489010911
+Z4 8L6P2.v
+Z5 FL6P2.v
+L0 100
+Z6 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z7 !s108 1489012407.000000
+Z8 !s107 L6P2.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|L6P2.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+vdatapath
+R1
+!i10b 1
+!s100 1F^E1Z]>6XQOU;;e[oXX?0
+IoH]8Uf?8TTnEV:k28bImS3
+R2
+R0
+R3
+R4
+R5
+L0 220
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vfpga_top
+R1
+!i10b 1
+!s100 l9mj^YRfDA;SIRJdIB0522
+IARl3nBDNEo9_zKbmdcW__1
+R2
+R0
+R3
+R4
+R5
+L0 10
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vhex_decoder
+R1
+!i10b 1
+!s100 d`M_nRj6YfMQi`[kS7<ij2
+IdZaM[88AbKNFebC<K0bi:1
+R2
+R0
+R3
+R4
+R5
+L0 317
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpart2
+R1
+!i10b 1
+!s100 N9DlcBkWLeYf83X0EX]n=3
+IL:mO96KNn7XmBSJK_D9[M0
+R2
+R0
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vsequence_detector
+!s110 1489011734
+!i10b 1
+!s100 6acOco6k0Jeno5;m@DVla3
+IGF]FJZW0Wb]C6Xe9FO@Q_3
+R2
+R0
+w1489011159
+8sequence_detector.v
+Fsequence_detector.v
+L0 9
+R6
+r1
+!s85 0
+31
+!s108 1489011734.000000
+!s107 sequence_detector.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|sequence_detector.v|
+!i113 1
+R10

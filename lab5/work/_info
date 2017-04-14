@@ -1,0 +1,217 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/csc258/lab5
+vdisplayCounter
+Z1 !s110 1487202467
+!i10b 1
+!s100 R^8A4]hkBEV_?nPJ718DD2
+Ia;gFGzcFc8Ymf[zOgMliD2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/kevin/Desktop/CourseWork/csc258/lab5
+Z4 w1487202353
+Z5 8part2.v
+Z6 Fpart2.v
+L0 55
+Z7 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z8 !s108 1487202467.000000
+Z9 !s107 part2.v|
+Z10 !s90 -reportprogress|300|-timescale|1ns/1ns|part2.v|
+!i113 1
+Z11 o-timescale 1ns/1ns
+ndisplay@counter
+vdisplyCounter
+!s110 1487192836
+!i10b 1
+!s100 ZiX>n3PhTTB@F0a]k`ia22
+ITggdLj9hI<1MaNNZ]kf0Y0
+R2
+R3
+w1487192828
+R5
+R6
+L0 56
+R7
+r1
+!s85 0
+31
+!s108 1487192836.000000
+R9
+R10
+!i113 1
+R11
+ndisply@counter
+vgetDisplay
+!s110 1487186311
+!i10b 1
+!s100 Sk=M^EM9QI5@0^HGV`e9@0
+I<m@ni8:8^bo;0lTefE;M32
+R2
+R3
+w1487186222
+R5
+R6
+L0 75
+R7
+r1
+!s85 0
+31
+!s108 1487186310.000000
+R9
+R10
+!i113 1
+R11
+nget@display
+vlab5
+!s110 1487187453
+!i10b 1
+!s100 9eP?YK8;3G=S2U[_Q`Hjm0
+Ia0l35aU2bbWl6<6KOHD@o0
+R2
+R3
+w1487187334
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1487187452.000000
+R9
+R10
+!i113 1
+R11
+vmyTff
+Z12 !s110 1487124155
+!i10b 1
+!s100 iJnIgm`WTlj4OGCbGik8Y1
+IZKHFV]gWg0]PSS3CEJDfg2
+R2
+R0
+Z13 w1487124151
+Z14 8part1.v
+Z15 Fpart1.v
+L0 37
+R7
+r1
+!s85 0
+31
+Z16 !s108 1487124155.000000
+Z17 !s107 part1.v|
+Z18 !s90 -reportprogress|300|-timescale|1ns/1ns|part1.v|
+!i113 1
+R11
+nmy@tff
+vpart1
+R12
+!i10b 1
+!s100 0k@ZbUB>mbf5YIc18b9BQ1
+IZX6lgEh8>0[PAknKn=_eX0
+R2
+R0
+R13
+R14
+R15
+L0 1
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R11
+vpart2
+R1
+!i10b 1
+!s100 UAbLc=WaKza^C:iNZe=:n2
+I<oZlg7e]zKjz]b5kWlDhR1
+R2
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vrateDivider
+R1
+!i10b 1
+!s100 HQdJoI:Ma0@@SU4o9Q0`A3
+InL1KndkKM9@K<WhCVd89C0
+R2
+R3
+R4
+R5
+R6
+L0 29
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+nrate@divider
+vselectPulse
+!s110 1487186472
+!i10b 1
+!s100 46[h3JO@1C1GON^7cH[1P3
+ImNH]9JbS19Q8Rj[]h5BY>2
+R2
+R3
+w1487186465
+R5
+R6
+L0 32
+R7
+r1
+!s85 0
+31
+!s108 1487186472.000000
+R9
+R10
+!i113 1
+R11
+nselect@pulse
+vSevenSegmentDecoder
+R1
+!i10b 1
+!s100 hRYlS3mQV;KB;mY`;6A>I0
+IzCD1eLT4a``4Pe4V]@g;P1
+R2
+R3
+R4
+R5
+R6
+L0 72
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+n@seven@segment@decoder
